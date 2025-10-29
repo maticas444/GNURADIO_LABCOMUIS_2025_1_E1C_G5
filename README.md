@@ -9,4 +9,5 @@ Determinar y cuantificar la atenuación (pérdida de señal) introducida por dif
 En esta fase inicial, el objetivo principal fue establecer la línea base de potencia o calibración del sistema1. Este valor de referencia, conocido como Potencia de Entrada ($P_{in}$), es crucial, ya que sirve como el punto de comparación para todas las mediciones de atenuación posteriores.
 
 Se realizó la medición de la potencia de referencia y se obtuvo: -61.05 dBm.
-![Fase 1](https://raw.githubusercontent.com/maticas444/GNURADIO_LABCOMUIS_2025_1_E1C_G5/mision2/Imagenes/Potencia%20de%20Entrada%20(Cable%20Corto.jpg )
+![Fase 1]![Potencia de Entrada (Cable Corto)](https://github.com/user-attachments/assets/c7d82f99-9c2c-4625-8d67-087fa3593de1)
+
