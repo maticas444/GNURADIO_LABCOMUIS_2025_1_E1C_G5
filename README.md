@@ -8,7 +8,5 @@ Determinar y cuantificar la atenuación (pérdida de señal) introducida por dif
 ## Fase 1: Establecimiento de la Línea Base (Calibración)l
 En esta fase inicial, el objetivo principal fue establecer la línea base de potencia o calibración del sistema1. Este valor de referencia, conocido como Potencia de Entrada ($P_{in}$), es crucial, ya que sirve como el punto de comparación para todas las mediciones de atenuación posteriores.
 
-El procedimiento de calibración se realizó de la siguiente manera:
--Configuración de la Señal: Se ajustó el generador de señales para emitir una señal de prueba a una frecuencia específica6.
--Medición de Referencia: Se conectó la salida del generador de señales directamente a la entrada del analizador de espectro, empleando un cable de referencia corto y de alta calidad para minimizar cualquier pérdida en la conexión7.Registro de $P_{in}$:
-- Se midió y registró la potencia exacta de la señal recibida en el analizador de espectro8
+Se realizó la medición de la potencia de referencia y se obtuvo: -61.05 dBm.
+![Fase 1] https://github.com/maticas444/GNURADIO_LABCOMUIS_2025_1_E1C_G5/blob/mision2/Imagenes/Potencia%20de%20Entrada%20(Cable%20Corto).jpg
