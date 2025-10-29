@@ -13,5 +13,5 @@ Se realizó la medición de la potencia de referencia y se obtuvo: -61.05 dBm.
 
 ![Potencia de Entrada (Cable Corto)](https://github.com/maticas444/GNURADIO_LABCOMUIS_2025_1_E1C_G5/blob/mision2/Imagenes/Potencia%20de%20Entrada%20(Cable%20Corto).jpg)
 
-Figura 1: Medición potencia de entrada con cable corto.
+Figura 1: Medición potencia de entrada con cable corto en 500 MHz.
 
