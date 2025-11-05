@@ -41,21 +41,7 @@ El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia d
 
 ##Resultados Completos
 
-Cable 2 Medio Largo
-
-| Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
-|-----------------:|----------:|-----------:|-------------------------:|--------------------------:|
-| 100 | -61,05 | -64,3 | 3,8 | 3,25 |
-| 200 | -61,05 | -65,0 | 5,6 | 3,95 |
-| 300 | -61,05 | -64,95 | 7 | 3,9 |
-| 400 | -61,05 | -63,78 | 8,4 | 2,73 |
-| 500 | -61,05 | -63,52 | 9,5 | 2,47 |
-| 600 | -61,05 | -64,26 | 10,6 | 3,21 |
-| 700 | -61,05 | -63,5 | 11,7 | 2,45 |
-| 800 | -61,05 | -64,52 | 12,7 | 3,47 |
-| 900 | -61,05 | -64,58 | 13,7 | 3,53 |
-
-Cable 1 Largo
+Cable 1 136 ft
 
 
 | Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
@@ -69,3 +55,29 @@ Cable 1 Largo
 |       700        |  -61,05   |  -87,51    |           23,8           |          26,46           |
 |       800        |  -61,05   |  -87,79    |           26,1936           |          26,74           |
 |       900        |  -61,05   |  -91,25    |           28,6008           |          30,2            |
+
+
+Cable 2 114 ft
+
+| Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
+|-----------------:|----------:|-----------:|-------------------------:|--------------------------:|
+| 100 | -61,05 | -64,3 | 3,8 | 3,25 |
+| 200 | -61,05 | -65,0 | 5,6 | 3,95 |
+| 300 | -61,05 | -64,95 | 7 | 3,9 |
+| 400 | -61,05 | -63,78 | 8,4 | 2,73 |
+| 500 | -61,05 | -63,52 | 9,5 | 2,47 |
+| 600 | -61,05 | -64,26 | 10,6 | 3,21 |
+| 700 | -61,05 | -63,5 | 11,7 | 2,45 |
+| 800 | -61,05 | -64,52 | 12,7 | 3,47 |
+| 900 | -61,05 | -64,58 | 13,7 | 3,53 |
+
+
+Análisis y Discusión:
+Identificación de anomalias: Basado en la tabla de resultados, identifique claramente cuál es el cable "que mayor atenuación presenta" y
+justifique por qué su atenuación es significativamente mayor.
+Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
+(Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento
+esperado? ¿Por qué?
+Conclusiones:
+Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de
+comunicaciones
