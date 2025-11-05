@@ -5,6 +5,10 @@
 ## Objetivo General:
 Determinar y cuantificar la atenuación (pérdida de señal) introducida por diferentes cables coaxiales a varias frecuencias, para identificar un componente defectuoso mediante la medición precisa de potencia con un generador de señal y un analizador de espectro.
 
+Para la elaboración de este laboratorio se usaron los siguientes cables:
+Cable 1: CAROL C 1178A RG58A A/U Type 50 Ohm coaxial cable 1c 20 awg awm 1354 80c e18621-f de 136 ft
+Cable 2: BELDEN 8240 RG-58/Q TYPE 1C20 SHIELDED E108993 AWM 1354 OR (UL) CMX C(UL) NZ de 114 ft
+
 ## Fase 1: Establecimiento de la Línea Base (Calibración)l
 En esta fase inicial, el objetivo principal fue establecer la línea base de potencia o calibración del sistema1. Este valor de referencia, conocido como Potencia de Entrada ($P_{in}$), es crucial, ya que sirve como el punto de comparación para todas las mediciones de atenuación posteriores.
 
@@ -27,8 +31,12 @@ Figura 3: Medición de potencia de entrada con Cable 2 en 500 MHz.
 CONCLUSION
 
 ##Fase 3: Diagnóstico y Análisis
-En esta fase se calculó la atenuación de cada cable mediante la siguiente ecuación:
+En esta fase se calculó la atenuación práctica de cada cable mediante la siguiente ecuación:
 Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
+
+Para la atenuación teórica se hizo uso de la siguiente ecuación:
+Atenuación (db) = alfa * Potencia de Entrada / 100
+El valor de alfa es el valor de atenuación de cada referencia de cable por cada 100 ft
 
 EJEMPLO
 
