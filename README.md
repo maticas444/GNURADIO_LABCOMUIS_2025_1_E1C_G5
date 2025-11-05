@@ -35,10 +35,9 @@ En esta fase se calculó la atenuación práctica de cada cable mediante la sigu
 Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
 
 Para la atenuación teórica se hizo uso de la siguiente ecuación:
-Atenuación (db) = alfa * Potencia de Entrada / 100
-El valor de alfa es el valor de atenuación de cada referencia de cable por cada 100 ft
+Atenuación (db) = alfa * Largo del Cable / 100
+El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia de cable.
 
-EJEMPLO
 
 ##Resultados Completos
 
@@ -46,15 +45,15 @@ Cable 2 Medio Largo
 
 | Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
 |-----------------:|----------:|-----------:|-------------------------:|--------------------------:|
-| 100 | -61,05 | -64,3 | ... | 3,25 |
-| 200 | -61,05 | -65,0 | ... | 3,95 |
-| 300 | -61,05 | -64,95 | ... | 3,9 |
-| 400 | -61,05 | -63,78 | ... | 2,73 |
-| 500 | -61,05 | -63,52 | ... | 2,47 |
-| 600 | -61,05 | -64,26 | ... | 3,21 |
-| 700 | -61,05 | -63,5 | ... | 2,45 |
-| 800 | -61,05 | -64,52 | ... | 3,47 |
-| 900 | -61,05 | -64,58 | ... | 3,53 |
+| 100 | -61,05 | -64,3 | 3,8 | 3,25 |
+| 200 | -61,05 | -65,0 | 5,6 | 3,95 |
+| 300 | -61,05 | -64,95 | 7 | 3,9 |
+| 400 | -61,05 | -63,78 | 8,4 | 2,73 |
+| 500 | -61,05 | -63,52 | 9,5 | 2,47 |
+| 600 | -61,05 | -64,26 | 10,6 | 3,21 |
+| 700 | -61,05 | -63,5 | 11,7 | 2,45 |
+| 800 | -61,05 | -64,52 | 12,7 | 3,47 |
+| 900 | -61,05 | -64,58 | 13,7 | 3,53 |
 
 Cable 1 Largo
 
