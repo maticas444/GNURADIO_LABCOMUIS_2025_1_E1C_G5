@@ -6,8 +6,8 @@
 Determinar y cuantificar la atenuación (pérdida de señal) introducida por diferentes cables coaxiales a varias frecuencias, para identificar un componente defectuoso mediante la medición precisa de potencia con un generador de señal y un analizador de espectro.
 
 Para la elaboración de este laboratorio se usaron los siguientes cables:
-Cable 1: CAROL C 1178A RG58A A/U Type 50 Ohm coaxial cable 1c 20 awg awm 1354 80c e18621-f de 136 ft
-Cable 2: BELDEN 8240 RG-58/Q TYPE 1C20 SHIELDED E108993 AWM 1354 OR (UL) CMX C(UL) NZ de 114 ft
+#### Cable 1: CAROL C 1178A RG58A A/U Type 50 Ohm coaxial cable 1c 20 awg awm 1354 80c e18621-f de 136 ft
+#### Cable 2: BELDEN 8240 RG-58/Q TYPE 1C20 SHIELDED E108993 AWM 1354 OR (UL) CMX C(UL) NZ de 114 ft
 
 ## Fase 1: Establecimiento de la Línea Base (Calibración)l
 En esta fase inicial, el objetivo principal fue establecer la línea base de potencia o calibración del sistema1. Este valor de referencia, conocido como Potencia de Entrada ($P_{in}$), es crucial, ya que sirve como el punto de comparación para todas las mediciones de atenuación posteriores.
@@ -28,9 +28,9 @@ Figura 2: Medición de potencia de entrada con Cable 1 en 500 MHz.
 
 Figura 3: Medición de potencia de entrada con Cable 2 en 500 MHz.
 
-CONCLUSION
+### CONCLUSION
 
-##Fase 3: Diagnóstico y Análisis
+## Fase 3: Diagnóstico y Análisis
 En esta fase se calculó la atenuación práctica de cada cable mediante la siguiente ecuación:
 Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
 
@@ -39,9 +39,9 @@ Atenuación (db) = alfa * Largo del Cable / 100
 El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia de cable.
 
 
-##Resultados Completos
+## Resultados Completos
 
-Cable 1 136 ft
+### Cable 1 136 ft
 
 
 | Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
@@ -57,7 +57,7 @@ Cable 1 136 ft
 |       900        |  -61,05   |  -91,25    |           28,6008           |          30,2            |
 
 
-Cable 2 114 ft
+### Cable 2 114 ft
 
 | Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
 |-----------------:|----------:|-----------:|-------------------------:|--------------------------:|
@@ -72,10 +72,10 @@ Cable 2 114 ft
 | 900 | -61,05 | -64,58 | 13,7 | 3,53 |
 
 
-## Análisis y Discusión:
+### Análisis y Discusión:
 Identificación de anomalias: Basado en la tabla de resultados, identifique claramente cuál es el cable "que mayor atenuación presenta" y justifique por qué su atenuación es significativamente mayor.
-- Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
+###### Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
 (Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento esperado? ¿Por qué?
 Conclusiones:
-Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de
+### Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de
 comunicaciones
