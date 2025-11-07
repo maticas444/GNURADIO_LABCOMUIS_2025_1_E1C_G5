@@ -72,6 +72,7 @@ El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia d
 
 ### Análisis y Discusión:
 Identificación de anomalias: Basado en la tabla de resultados, identifique claramente cuál es el cable "que mayor atenuación presenta" y justifique por qué su atenuación es significativamente mayor.
+
 El Cable 1 (CAROL C 1178A) el de 136 ft es el que presenta una atenuación significativamente mayor, esto se debe a que la atenuación total (en dB) es el producto de la constante de atenuación del material ($\alpha_{dB}$) multiplicada por la longitud total ($l$).Atenuación Total (dB) = $\alpha_{dB}$ [dB/m] $\cdot$ $l$ [m], por lo que la atenuación total (medida en dB) es directamente proporcional a la longitud (distancia) del cable.
 
 ### Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
