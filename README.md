@@ -30,10 +30,10 @@ Figura 3: Medición de potencia de entrada con Cable 2 en 500 MHz.
 
 ## Fase 3: Diagnóstico y Análisis
 En esta fase se calculó la atenuación práctica de cada cable mediante la siguiente ecuación:
-Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
+###### Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
 
 Para la atenuación teórica se hizo uso de la siguiente ecuación:
-Atenuación (db) = alfa * Largo del Cable / 100
+###### Atenuación (db) = alfa * Largo del Cable / 100
 El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia de cable.
 
 
