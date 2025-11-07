@@ -76,9 +76,12 @@ Identificación de anomalias: Basado en la tabla de resultados, identifique clar
 El Cable 1 (CAROL C 1178A) el de 136 ft es el que presenta una atenuación significativamente mayor, esto se debe a que la atenuación total (en dB) es el producto de la constante de atenuación del material ($\alpha_{dB}$) multiplicada por la longitud total ($l$).Atenuación Total (dB) = $\alpha_{dB}$ [dB/m] $\cdot$ $l$ [m], por lo que la atenuación total (medida en dB) es directamente proporcional a la longitud (distancia) del cable.
 
 ### Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
+
+Existen diversas razones por las cuales pueden presentarse atenuaciones altas en cables o conectores, las más comúnes son las filtraciones de agua, daños físicos (como pisotones, dobleces bruscos), también afecta la atenuación cualquier afectación a los conoectores como corrosión u oxidación. 
+
 (Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento esperado? ¿Por qué?
 
+Al aumentar la frecuencia, observamos que 
 
-### Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de
-comunicaciones
+### Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de comunicaciones
 
