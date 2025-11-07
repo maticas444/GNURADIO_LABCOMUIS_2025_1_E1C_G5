@@ -30,16 +30,16 @@ Figura 3: Medición de potencia de entrada con Cable 2 en 500 MHz.
 
 ## Fase 3: Diagnóstico y Análisis
 En esta fase se calculó la atenuación práctica de cada cable mediante la siguiente ecuación:
-###### Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
+##### Atenuación (dB) = Potencia de Entrada (P_in) - Potencia de Salida (P_out)
 
 Para la atenuación teórica se hizo uso de la siguiente ecuación:
-###### Atenuación (db) = alfa * Largo del Cable / 100
+##### Atenuación (db) = alfa * Largo del Cable / 100
 El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia de cable.
 
 
 ## Resultados Completos
 
-### Cable 1 136 ft
+### Cable 1: 136 ft
 
 
 | Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
@@ -55,7 +55,7 @@ El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia d
 |       900        |  -61,05   |  -91,25    |           28,6008           |          30,2            |
 
 
-### Cable 2 114 ft
+### Cable 2: 114 ft
 
 | Frecuencia (MHz) | Pin (dBm) | Pout (dBm) | Atenuación teórica (dB) | Atenuación práctica (dB) |
 |-----------------:|----------:|-----------:|-------------------------:|--------------------------:|
@@ -72,8 +72,12 @@ El valor de alfa es el valor de atenuación por cada 100 ft de cada referencia d
 
 ### Análisis y Discusión:
 Identificación de anomalias: Basado en la tabla de resultados, identifique claramente cuál es el cable "que mayor atenuación presenta" y justifique por qué su atenuación es significativamente mayor.
-###### Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
+El Cable 1 (CAROL C 1178A) el de 136 ft es el que presenta una atenuación significativamente mayor, esto se debe a que la atenuación total (en dB) es el producto de la constante de atenuación del material ($\alpha_{dB}$) multiplicada por la longitud total ($l$).Atenuación Total (dB) = $\alpha_{dB}$ [dB/m] $\cdot$ $l$ [m], por lo que la atenuación total (medida en dB) es directamente proporcional a la longitud (distancia) del cable.
+
+### Análisis Causa-Raíz: ¿Qué posibles fallas físicas en un cable o conector podrían causar una atenuación tan alta?
 (Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento esperado? ¿Por qué?
-Conclusiones:
+
+
 ### Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de
 comunicaciones
+
