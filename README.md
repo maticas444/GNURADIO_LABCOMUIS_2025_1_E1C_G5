@@ -7,4 +7,4 @@ Búsqueda del Registro: Busque el documento oficial que contiene los parámetros
 
 Creación de la Lista Oficial: Filtra la información para la ciudad de Bucaramanga y su área metropolitana. Cree una tabla con todas las emisoras FM legalmente registradas. Tu tabla debe incluir, como mínimo: Enlace Radio Emisoras Colombia
 
-Frecuencia Asignada (MHz) Distintivo de Llamada (Ej: HJC24) Nombre Comercial de la Emisora Clase de emisora
+
