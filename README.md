@@ -81,7 +81,7 @@ Existen diversas razones por las cuales pueden presentarse atenuaciones altas en
 
 (Si se realizó el reto avanzado): Analiza cómo cambió la atenuación de los cables al aumentar la frecuencia. ¿Es un comportamiento esperado? ¿Por qué?
 
-Al aumentar la frecuencia, observamos que 
+Al aumentar la frecuencia, observamos que la atenuación de los cables también aumentaba, lo cuál es un comprotamiento totalmente esperado, esto es debido a 2 fenómenos físicos, al efecto piel y a las pérdidas dieléctricas.
 
 ### Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de comunicaciones
 
