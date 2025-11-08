@@ -49,5 +49,31 @@ Identificar la emisora: Escuche la transmisión para capturar su nombre comercia
 
 Tabla 2. Emisoras FM registradas y medidas en la práctica
 
+## Fase 3: Análisis y Cruce de Datos
+
+Creación de la Tabla Maestra: Combine las dos listas (la oficial de la Fase 1 y la de campo de la Fase 2) en una única tabla comparativa.
+
+Clasificación de Hallazgos: Para cada emisora que encontraste en tu barrido, clasifíquela:
+
+Coincidencia Legal: La frecuencia y el nombre coinciden con un registro oficial.
+
+Posible Desviación: La frecuencia está ligeramente desviada del registro oficial, pero el nombre coincide.
+
+Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
+
+## Fase 4: Entregables y Análisis del Reporte:
+Prepara un reporte de misión como si fueras a entregarlo a tu superior en la ANE.
+
+Resultados y Hallazgos:
+Presenta una Tabla Maestra comparando los datos oficiales con los datos de campo. Esta es la evidencia principal de tu trabajo
+Incluya una captura de pantalla panorámica del espectro FM de Bucaramanga, señalando algunas de las emisoras que identificaste.
+Análisis y Discusión:
+
+### Lista de Anomalías: Presenta una lista clara y concisa de todas las "Transmisiones No Identificadas" o con desviaciones. Estas son tus principales pistas para una investigación más profunda.
+Análisis de Discrepancias: ¿Por qué podría existir una emisora en el aire que no está en los registros? Propón al menos dos hipótesis (ej. transmisión sin licencia, una licencia de un municipio cercano cuya señal llega a la ciudad, etc.).
+Analisis con dispositivos certificados de las anomalias: Use el analizador de espectro para verificar las posibles anomalias y reportelas de manera profesional, medidas de ancho de banda como si fuera un experto. para esto debe consultar el Plan tecnico de radiodifiusion sonora para FM
+Retos de la Misión: Describe las dificultades que enfrentaste. ¿Fue difícil identificar todas las emisoras? ¿Había señales muy débiles o mucho ruido?
+Lista de Anomalías:
 
 
+### Análisis de Discrepancias:
