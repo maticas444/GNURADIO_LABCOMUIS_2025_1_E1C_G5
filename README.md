@@ -61,7 +61,7 @@ Tabla 2. Emisoras FM registradas y medidas en la práctica
 
 ##### Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
 
-| Frecuencia | Emisora | Potencia relativa (dB) | Certificación | Desviación |
+| Frecuencia | Emisora | Potencia relativa (dB) | Registro | Desviación |
 | :--- | :--- | :--- | :--- | :--- |
 | 90.7 | W RADIO | -33,45 | SI | NO |
 | 91.7 | POLICIA NACIONAL DE BUCARAMANGA | -32,7 | SI | NO |
