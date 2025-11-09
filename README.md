@@ -95,9 +95,17 @@ Incluya una captura de pantalla panorámica del espectro FM de Bucaramanga, señ
 #### Análisis y Discusión:
 
 ##### Lista de Anomalías: Presenta una lista clara y concisa de todas las "Transmisiones No Identificadas" o con desviaciones. Estas son tus principales pistas para una investigación más profunda.
+
+Solo se encontró transmisión no identificada ubicada en la frecuencia 94.7 MHz.
+
 ##### Análisis de Discrepancias: ¿Por qué podría existir una emisora en el aire que no está en los registros? Propón al menos dos hipótesis (ej. transmisión sin licencia, una licencia de un municipio cercano cuya señal llega a la ciudad, etc.).
-##### Analisis con dispositivos certificados de las anomalias: Use el analizador de espectro para verificar las posibles anomalias y reportelas de manera profesional, medidas de ancho de banda como si fuera un experto. para esto debe consultar el Plan tecnico de radiodifiusion sonora para FM
+
+Mientras nos encontrabamos verificando las emisoras que no se encontraban en los registros, encontramos que la emisora "La Inolvidable o La Exitosa" 98.5 MHz continuaba funcionando a pesar que había sido sancionada en septiembre del año pasado, y habían sido ecomisados sus equipos, todo esto debido a presunto uso no autorizado del espector radioeléctrico, como también que esta frecuencia no está proyectada ni asignada para el referido municipio. Por lo que postulamos esta misma causa como la principal por la que una emisora que esté al aire no se encuentra en los registros.
+
+Por otro lado, encontramos que la emisora no identificada en 94.7 MHz podría tratarse de Olimpica Estereo Cúcuta, ya que a esta misma frecuencia se transmite en ese sector, por lo que asumimos como segunda hipótesis que otra razón por la cual una emisora no se encuentre en los registros y esté funcionando es debido a que la emisora sí cuenta con una licencia de operación válida, pero esta fue asignada para un municipio o área de servicio diferente. Sin embargo, debido a la potencia de su transmisor, la ubicación de su antena o condiciones favorables de propagación, su señal alcanza a cubrir esta localidad. Esto explicaría su presencia en nuestras mediciones, a pesar de no estar en los registros oficiales de Bucaramanga.
+
 ##### Retos de la Misión: Describe las dificultades que enfrentaste. ¿Fue difícil identificar todas las emisoras? ¿Había señales muy débiles o mucho ruido?
-Lista de Anomalías:
+
+Si, mientras algunas señales presentaban potencias altas y totalmente audibles, nos encontramos con algunas que eran bastante débiles, como por ejemplo lo son "La Mega Estereo" y "La Guapachosa" que presentaron potencias de -65,88 y -67,71 dB respectivamente, las cuales fue difícil encontrar al estar con bastante ruido. Lo cual es un comportamiento esperado, ya que las señales débiles son más susceptibles al ruido, a la atenuación por obstáculos y pueden ser difíciles de sintonizar para una correcta identificación.
 
 
