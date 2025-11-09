@@ -61,6 +61,31 @@ Tabla 2. Emisoras FM registradas y medidas en la práctica
 
 ##### Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
 
+| Frecuencia | Emisora | Potencia relativa (dB) | Certificación | Desviación |
+| :--- | :--- | :--- | :--- | :--- |
+| 90.7 | W RADIO | -33,45 | SI | NO |
+| 91.7 | POLICIA NACIONAL DE BUCARAMANGA | -32,7 | SI | NO |
+| 92.3 | RADIONICA | -56,44 | SI | NO |
+| 92.9 | COLOMBIA ESTEREO | -42,84 | SI | NO |
+| 93.4 | EMISORA COMUNITARIA LA BRUJULA | -50,19 | SI | NO |
+| 94.7 | NO IDENTIFICADA | -55,87 | NO | NO |
+| 95.7 | TROPICANA | -37,21 | SI | NO |
+| 96.2 | SANTO TOMAS ESTEREO | -61,37 | SI | NO |
+| 96.9 | UIS FM | -33,55 | NO | NO |
+| 97.7 | OLIMPICA ESTEREO | -60,63 | SI | NO |
+| 98.5 | La Exitosa | -54,41 | NO | NO |
+| 99.2 | CARACOL | -47,94 | SI | NO |
+| 99.7 | LA FM | -44,72 | SI | NO |
+| 100.7 | EMISORA CULTURAL LUIS CARLOS GALAN SARMIENTO | -45,84 | SI | NO |
+| 101.7 | UTS - TU RADIO ESTEREO | -62,94 | SI | NO |
+| 102.5 | LA MEGA ESTEREO | -65,88 | SI | NO |
+| 103.7 | RUMBA ESTEREO | -41,84 | SI | NO |
+| 104.7 | BESAME | -58,6 | SI | NO |
+| 105.1 | LA GUAPACHOSA | -65,71 | SI | NO |
+| 106.7 | RADIO UNO | -49,99 | SI | NO |
+
+Tabla 3. Emisoras FM clasificadas, registradas y medidas en la práctica
+
 ## Entregables y Análisis del Reporte:
 Prepara un reporte de misión como si fueras a entregarlo a tu superior en la ANE.
 
