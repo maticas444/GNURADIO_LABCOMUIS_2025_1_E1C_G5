@@ -59,7 +59,7 @@ Tabla 2. Emisoras FM registradas y medidas en la práctica
 
 ##### Posible Desviación: La frecuencia está ligeramente desviada del registro oficial, pero el nombre coincide.
 
-#####Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
+##### Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
 
 ## Entregables y Análisis del Reporte:
 Prepara un reporte de misión como si fueras a entregarlo a tu superior en la ANE.
@@ -67,7 +67,7 @@ Prepara un reporte de misión como si fueras a entregarlo a tu superior en la AN
 ### Resultados y Hallazgos:
 Presenta una Tabla Maestra comparando los datos oficiales con los datos de campo. Esta es la evidencia principal de tu trabajo
 Incluya una captura de pantalla panorámica del espectro FM de Bucaramanga, señalando algunas de las emisoras que identificaste.
-### Análisis y Discusión:
+#### Análisis y Discusión:
 
 ##### Lista de Anomalías: Presenta una lista clara y concisa de todas las "Transmisiones No Identificadas" o con desviaciones. Estas son tus principales pistas para una investigación más profunda.
 ##### Análisis de Discrepancias: ¿Por qué podría existir una emisora en el aire que no está en los registros? Propón al menos dos hipótesis (ej. transmisión sin licencia, una licencia de un municipio cercano cuya señal llega a la ciudad, etc.).
