@@ -1,26 +1,26 @@
 # Misión 4
 
 ## Fase 1:  Inteligencia y Preparación (Investigación Regulatoria)
-Obtención de Datos Oficiales: Navegue en al sitio web oficial de la ANE o del MinTIC de Colombia.
+1. Obtención de Datos Oficiales: Navegue en al sitio web oficial de la ANE o del MinTIC de Colombia.
 
-Búsqueda del Registro: Busque el documento oficial que contiene los parámetros de las estaciones de radiodifusión sonora en FM. Generalmente se llama "Cuadro Nacional de Atribución de Bandas de Frecuencias (CNABF)" o puedes encontrar los datos en el "Sistema de Gestión de Espectro (SGE)".
+2. Búsqueda del Registro: Busque el documento oficial que contiene los parámetros de las estaciones de radiodifusión sonora en FM. Generalmente se llama "Cuadro Nacional de Atribución de Bandas de Frecuencias (CNABF)" o puedes encontrar los datos en el "Sistema de Gestión de Espectro (SGE)".
 
-Creación de la Lista Oficial: Filtra la información para la ciudad de Bucaramanga y su área metropolitana. Cree una tabla con todas las emisoras FM legalmente registradas.
+3. Creación de la Lista Oficial: Filtra la información para la ciudad de Bucaramanga y su área metropolitana. Cree una tabla con todas las emisoras FM legalmente registradas.
 
 [EmisorasFMLegalmenteRegistradas.pdf](https://github.com/user-attachments/files/23434039/EmisorasFMLegalmenteRegistradas.pdf)
 
 Tabla 1. Emisoras FM legalmente registrada de Bucaramanga y el área metropolitana
 
 ## Fase 2: Monitoreo de Campo (Escaneo del Espectro)
-Configuración del Equipo: Conecta tu antena al SDR.
+1. Configuración del Equipo: Conecta tu antena al SDR.
 
-Barrido del Espectro: Realice un barrido completo de la banda de FM, desde 88.0 MHz hasta 108.0 MHz.
+2. Barrido del Espectro: Realice un barrido completo de la banda de FM, desde 88.0 MHz hasta 108.0 MHz.
 
-Registro de Señales Detectadas: Por cada señal que detectes claramente, crea una nueva lista. Para cada una, debes:
+3. Registro de Señales Detectadas: Por cada señal que detectes claramente, crea una nueva lista. Para cada una, debes:
 
-Anotar la frecuencia exacta en la que la encuentras.
+#### Anotar la frecuencia exacta en la que la encuentras.
 
-Estimar su potencia relativa o calidad de la señal.
+#### Estimar su potencia relativa o calidad de la señal.
 
 Identificar la emisora: Escuche la transmisión para capturar su nombre comercial o cualquier pista que te permita identificarla.
 
@@ -51,29 +51,28 @@ Tabla 2. Emisoras FM registradas y medidas en la práctica
 
 ## Fase 3: Análisis y Cruce de Datos
 
-Creación de la Tabla Maestra: Combine las dos listas (la oficial de la Fase 1 y la de campo de la Fase 2) en una única tabla comparativa.
+1. Creación de la Tabla Maestra: Combine las dos listas (la oficial de la Fase 1 y la de campo de la Fase 2) en una única tabla comparativa.
 
-Clasificación de Hallazgos: Para cada emisora que encontraste en tu barrido, clasifíquela:
+2. Clasificación de Hallazgos: Para cada emisora que encontraste en tu barrido, clasifíquela:
 
-Coincidencia Legal: La frecuencia y el nombre coinciden con un registro oficial.
+##### Coincidencia Legal: La frecuencia y el nombre coinciden con un registro oficial.
 
-Posible Desviación: La frecuencia está ligeramente desviada del registro oficial, pero el nombre coincide.
+##### Posible Desviación: La frecuencia está ligeramente desviada del registro oficial, pero el nombre coincide.
 
-Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
+#####Transmisión No Identificada: usted ha Encontrado una señal en una frecuencia que NO está en la lista oficial, o no pudiste identificar el nombre de una emisora en una frecuencia registrada.
 
-## Fase 4: Entregables y Análisis del Reporte:
+## Entregables y Análisis del Reporte:
 Prepara un reporte de misión como si fueras a entregarlo a tu superior en la ANE.
 
-Resultados y Hallazgos:
+### Resultados y Hallazgos:
 Presenta una Tabla Maestra comparando los datos oficiales con los datos de campo. Esta es la evidencia principal de tu trabajo
 Incluya una captura de pantalla panorámica del espectro FM de Bucaramanga, señalando algunas de las emisoras que identificaste.
-Análisis y Discusión:
+### Análisis y Discusión:
 
-### Lista de Anomalías: Presenta una lista clara y concisa de todas las "Transmisiones No Identificadas" o con desviaciones. Estas son tus principales pistas para una investigación más profunda.
-Análisis de Discrepancias: ¿Por qué podría existir una emisora en el aire que no está en los registros? Propón al menos dos hipótesis (ej. transmisión sin licencia, una licencia de un municipio cercano cuya señal llega a la ciudad, etc.).
-Analisis con dispositivos certificados de las anomalias: Use el analizador de espectro para verificar las posibles anomalias y reportelas de manera profesional, medidas de ancho de banda como si fuera un experto. para esto debe consultar el Plan tecnico de radiodifiusion sonora para FM
-Retos de la Misión: Describe las dificultades que enfrentaste. ¿Fue difícil identificar todas las emisoras? ¿Había señales muy débiles o mucho ruido?
+##### Lista de Anomalías: Presenta una lista clara y concisa de todas las "Transmisiones No Identificadas" o con desviaciones. Estas son tus principales pistas para una investigación más profunda.
+##### Análisis de Discrepancias: ¿Por qué podría existir una emisora en el aire que no está en los registros? Propón al menos dos hipótesis (ej. transmisión sin licencia, una licencia de un municipio cercano cuya señal llega a la ciudad, etc.).
+##### Analisis con dispositivos certificados de las anomalias: Use el analizador de espectro para verificar las posibles anomalias y reportelas de manera profesional, medidas de ancho de banda como si fuera un experto. para esto debe consultar el Plan tecnico de radiodifiusion sonora para FM
+##### Retos de la Misión: Describe las dificultades que enfrentaste. ¿Fue difícil identificar todas las emisoras? ¿Había señales muy débiles o mucho ruido?
 Lista de Anomalías:
 
 
-### Análisis de Discrepancias:
