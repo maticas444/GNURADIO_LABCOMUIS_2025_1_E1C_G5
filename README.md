@@ -22,6 +22,9 @@ Se usó el uso de la IA "Elevenlabs" para pasar el guión escrito a un audio nar
 
 Se hizo la mezcla de los audios en Audacity, se configuró para que el jingle inicial suene solo por el canal izquierdo, el speech por el canal derecho, y la canción por ambos canales, resultando en un archivo wav estéreo mezclado.
 
+[AudioMezclado.wav](https://github.com/user-attachments/files/23464810/Audio.Transmitido.wav)
+Este fue el audio final obtenido que se va a transmitir en las siguientes fases.
+
 ## Fase 2:
 
 Esta es la fase crítica del procesamiento de la señal, donde se construye la estructura de la señal que modulará la portadora de RF.
