@@ -47,3 +47,5 @@ Esta es la fase crítica del procesamiento de la señal, donde se construye la e
 
 * **Objetivo Específico 2.4:** Analizar el espectro de la señal MPX resultante y verificar la correcta ubicación y amplitud relativa de cada uno de sus componentes.
 
+<img width="1177" height="348" alt="image" src="https://github.com/user-attachments/assets/9a2240b6-5f8c-475e-bf75-b84d4e6133c4" />
+
