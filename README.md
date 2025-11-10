@@ -3,10 +3,24 @@
 ## Fase 1:
 
 * **Objetivo Específico 1.1:** Diseñar un guion para un bloque de programación de 60 a 90 segundos que incluya una introducción (jingle), un segmento de voz y una pieza musical.
+
+El guión fue generado con inteligencia artificial obteniendo el siguiente segmento de voz:
+"Sintoniza la voz de los estudiantes, somos UIS y estamos en el aire. UIS Radio, la voz que conecta tu futuro.
+
+Bienvenidos de nuevo a tu emisora estudiantil de la UIS. En esta edición te contamos lo más relevante de esta semana en la universidad. La Universidad Industrial de Santander ha lanzado una nueva convocatoria de becas para estudiantes de pregrado y posgrado con el objetivo de fomentar la investigación y la innovación. La convocatoria incluye becas completas para estudiantes que deseen realizar proyectos de impacto social y científico. Las inscripciones estarán abiertas hasta el 31 de octubre y podrás encontrar toda la información detallada en el sitio web oficial de la universidad. Recuerda que si quieres más detalles sobre esta y otras noticias, puedes seguirnos en nuestras redes sociales. ¡No te lo pierdas!
+Y ahora, para seguir acompañándote con lo mejor de la música, aquí tienes una canción que no te puedes perder. Sigue disfrutando de la programación en UIS Radio."
+La melodía elegida fue un segmento de la canción "Corazón Partio" de Alejandro Sanz.
+
+
 * **Objetivo Específico 1.2:** Grabar y/o seleccionar los elementos de audio definidos en el guion.
+
+Se usó el uso de la IA "Elevenlabs" para pasar el guión escrito a un audio narrado por un locutor. De igual manera se descargó el segmento musical mediante la página "https://www-y2mate.com/es36/" usando el link de Youtube de la canción.
+
 * **Objetivo Específico 1.3:** Utilizar un software de edición de audio (ej. Audacity) para ensamblar, mezclar y masterizar los elementos en un único archivo de audio. El producto final debe ser un archivo estéreo (dos canales: Izquierdo y Derecho) en formato `.wav` para preservar la máxima calidad.
 
-[Audio Transmitido.wav](https://github.com/user-attachments/files/23442709/Audio.Transmitido.wav)
+<img width="1891" height="621" alt="image" src="https://github.com/user-attachments/assets/55946a2f-dbd5-49db-a959-39d42731c309" />
+
+Se hizo la mezcla de los audios en Audacity, se configuró para que el jingle inicial suene solo por el canal izquierdo, el speech por el canal derecho, y la canción por ambos canales, resultando en un archivo wav estéreo mezclado.
 
 ## Fase 2:
 
