@@ -47,5 +47,18 @@ Esta es la fase crítica del procesamiento de la señal, donde se construye la e
 
 * **Objetivo Específico 2.4:** Analizar el espectro de la señal MPX resultante y verificar la correcta ubicación y amplitud relativa de cada uno de sus componentes.
 
-<img width="1177" height="348" alt="image" src="https://github.com/user-attachments/assets/9a2240b6-5f8c-475e-bf75-b84d4e6133c4" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/43048d13-6151-4367-8a45-b48e78eea5eb" />
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/354f6fb3-b30b-4a47-a2dc-a0d7496426a0" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/3d612995-fbfc-439a-a127-d7944a5f9d58" />
+
+## Fase 3:
+
+En esta fase final, la señal procesada se lleva al dominio de radiofrecuencia para su emisión y se comprueba su correcta recepción.
+
+* **Objetivo Específico 3.1:** Configurar el bloque de modulación FM, utilizando la señal MPX generada como entrada. Se debe ajustar la desviación de frecuencia para cumplir con el estándar de radiodifusión (típicamente ±75 kHz).
+* **Objetivo Específico 3.2:** Configurar los parámetros del USRP (frecuencia central de transmisión, ganancia, tasa de muestreo) para emitir la señal en una frecuencia libre dentro de la banda FM comercial (88-108 MHz).
+* **Objetivo Específico 3.3:** Iniciar la transmisión y utilizar un receptor de radio FM comercial para sintonizar la señal.
+* **Objetivo Específico 3.4:** Validar cualitativamente la calidad del audio recibido y confirmar que el indicador "Stereo" del receptor se activa, lo que prueba la correcta generación y detección del piloto de 19 kHz.
 
