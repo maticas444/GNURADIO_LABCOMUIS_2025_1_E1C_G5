@@ -30,9 +30,20 @@ Este fue el audio final obtenido que se va a transmitir en las siguientes fases.
 Esta es la fase crítica del procesamiento de la señal, donde se construye la estructura de la señal que modulará la portadora de RF.
 
 * **Objetivo Específico 2.1:** Cargar el archivo de audio estéreo en el entorno de desarrollo (GNU Radio).
+
+<img width="401" height="281" alt="image" src="https://github.com/user-attachments/assets/70014530-41e1-4b9a-8261-03018f11ed97" />
+
 * **Objetivo Específico 2.2:** Implementar los bloques o el código necesario para generar los componentes de la señal MPX:
     * Crear la señal de suma **(L+R)** para compatibilidad monofónica.
     * Generar el **tono piloto de 19 kHz**, que es la referencia de fase para la demodulación estéreo.
     * Crear la señal de diferencia **(L-R)** y modularla en una subportadora de 38 kHz mediante AM de Doble Banda Lateral con Portadora Suprimida (AM-DSB-SC).
+
+<img width="1114" height="862" alt="image" src="https://github.com/user-attachments/assets/cafe3502-ced7-423b-b0aa-e7123d805157" />
+ 
 * **Objetivo Específico 2.3:** Combinar (sumar) las tres señales anteriores para formar la señal MPX final.
+
+<img width="596" height="264" alt="image" src="https://github.com/user-attachments/assets/d4ac2ca9-3923-4a80-af2b-8c81daaeba34" />
+
+
 * **Objetivo Específico 2.4:** Analizar el espectro de la señal MPX resultante y verificar la correcta ubicación y amplitud relativa de cada uno de sus componentes.
+
