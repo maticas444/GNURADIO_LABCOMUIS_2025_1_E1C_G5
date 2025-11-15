@@ -31,7 +31,8 @@ Esta es la fase crítica del procesamiento de la señal, donde se construye la e
 
 * **Objetivo Específico 2.1:** Cargar el archivo de audio estéreo en el entorno de desarrollo (GNU Radio).
 
-<img width="401" height="281" alt="image" src="https://github.com/user-attachments/assets/70014530-41e1-4b9a-8261-03018f11ed97" />
+<img width="720" height="327" alt="Screenshot_7" src="https://github.com/user-attachments/assets/f39cd57a-5e63-482f-86f1-a6775edb3885" />
+
 
 * **Objetivo Específico 2.2:** Implementar los bloques o el código necesario para generar los componentes de la señal MPX:
     * Crear la señal de suma **(L+R)** para compatibilidad monofónica.
