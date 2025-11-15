@@ -1,4 +1,4 @@
-# Misión 6
+# Misión 6: Nuestra Propia Emisora FM Estéreo 
 
 ## Fase 1:
 
@@ -66,3 +66,10 @@ En esta fase final, la señal procesada se lleva al dominio de radiofrecuencia p
 
 ![Imagen de WhatsApp 2025-10-17 a las 17 04 20_e0772e3a](https://github.com/user-attachments/assets/873560d5-7b4e-4d69-b658-43d1819eb5d5)
 
+## Fase 4:
+
+En el apartado final del reporte, el participante deberá presentar sus conclusiones de ingeniería. Este análisis debe ir más allá de un simple
+resumen de resultados. Se espera una evaluación crítica del proceso completo, desde el diseño hasta la validación. El estudiante deberá
+argumentar si el prototipo o sistema implementado cumplió con las especificaciones y objetivos iniciales. Asimismo, deberá identificar las
+principales fuentes de error, las limitaciones del diseño y proponer recomendaciones concretas para futuras iteraciones o mejoras del proyecto,
+justificando cada una desde una perspectiva técnica.
