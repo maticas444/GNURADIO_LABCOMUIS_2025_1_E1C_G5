@@ -64,4 +64,5 @@ En esta fase final, la señal procesada se lleva al dominio de radiofrecuencia p
 
 <img width="720" height="327" alt="Screenshot_7" src="https://github.com/user-attachments/assets/12080699-df7e-450e-becd-663d6dc69e9a" />
 
-![Imagen de WhatsApp 2025-10-17 a las 17 19 38_d73c3838](https://github.com/user-attachments/assets/78b4eb33-a9f4-47ed-ad46-27b48061abc0)
+![Imagen de WhatsApp 2025-10-17 a las 17 04 20_e0772e3a](https://github.com/user-attachments/assets/873560d5-7b4e-4d69-b658-43d1819eb5d5)
+
