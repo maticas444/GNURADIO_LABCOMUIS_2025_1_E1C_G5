@@ -18,7 +18,7 @@ Se usó el uso de la IA "Elevenlabs" para pasar el guión escrito a un audio nar
 
 * **Objetivo Específico 1.3:** Utilizar un software de edición de audio (ej. Audacity) para ensamblar, mezclar y masterizar los elementos en un único archivo de audio. El producto final debe ser un archivo estéreo (dos canales: Izquierdo y Derecho) en formato `.wav` para preservar la máxima calidad.
 
-<img width="1891" height="621" alt="image" src="https://github.com/user-attachments/assets/55946a2f-dbd5-49db-a959-39d42731c309" />
+ ht="621" alt="image" src="https://github.com/user-attachments/assets/55946a2f-dbd5-49db-a959-39d42731c309" />
 
 Se hizo la mezcla de los audios en Audacity, se configuró para que el jingle inicial suene solo por el canal izquierdo, el speech por el canal derecho, y la canción por ambos canales, resultando en un archivo wav estéreo mezclado.
 
@@ -31,7 +31,7 @@ Esta es la fase crítica del procesamiento de la señal, donde se construye la e
 
 * **Objetivo Específico 2.1:** Cargar el archivo de audio estéreo en el entorno de desarrollo (GNU Radio).
 
-<img width="720" height="327" alt="Screenshot_7" src="https://github.com/user-attachments/assets/f39cd57a-5e63-482f-86f1-a6775edb3885" />
+<img width="265" height="128" alt="Screenshot_8" src="https://github.com/user-attachments/assets/555712d9-1730-421a-8c63-aa73f8edbece" />
 
 
 * **Objetivo Específico 2.2:** Implementar los bloques o el código necesario para generar los componentes de la señal MPX:
