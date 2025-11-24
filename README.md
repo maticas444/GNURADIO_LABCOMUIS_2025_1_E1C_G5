@@ -84,4 +84,17 @@ Existen diversas razones por las cuales pueden presentarse atenuaciones altas en
 Al aumentar la frecuencia, observamos que la atenuación de los cables también aumentaba, lo cuál es un comprotamiento totalmente esperado, esto es debido a 2 fenómenos físicos, al efecto piel y a las pérdidas dieléctricas.
 
 ### Resume tus hallazgos y la importancia de medir la pérdida en las líneas de transmisión para garantizar la integridad de un enlace de comunicaciones
+## Conclusiones y Discusión
 
+Tras realizar la caracterización espectral de los componentes utilizando el generador de señales y el analizador de espectro, se destacan los siguientes puntos clave derivados de las mediciones:
+
+* **Comportamiento del Cable 1 (CAROL C 1178A - 136 ft):** Este medio de transmisión demostró ser el elemento limitante del sistema. [cite_start]Se observó una correlación directa y proporcional entre el aumento de la frecuencia y el incremento de la atenuación, pasando de **11.76 dB a 100 MHz** hasta alcanzar **30.2 dB a 900 MHz**[cite: 167]. Este comportamiento valida el modelo teórico donde las pérdidas aumentan con la frecuencia, pero identifica a este cable como el componente defectuoso debido a su magnitud de pérdida.
+* **Comportamiento del Cable 2 (BELDEN 8240 - 114 ft):** A diferencia del primero, este cable presentó un comportamiento de "baja pérdida" con una respuesta más plana y atenuaciones significativamente menores a las teóricas calculadas. [cite_start]En todo el rango medido (100-900 MHz), la atenuación se mantuvo estable, oscilando mayoritariamente entre **2.4 dB y 3.9 dB**[cite: 169].
+* [cite_start]**Identificación de Anomalías:** Al comparar ambas líneas de transmisión a una frecuencia central de 500 MHz, el Cable 1 presenta una atenuación de **22.21 dB** frente a los **2.47 dB** del Cable 2[cite: 167, 169]. Esto confirma que el Cable 1 introduce una pérdida de potencia drástica, convirtiéndose en el "enlace crítico" que comprometería la eficiencia energética del diseño.
+
+### Importancia de la Medición en la Integridad del Enlace
+[cite_start]La medición precisa de las pérdidas en las líneas de transmisión ($P_{in} - P_{out}$) [cite: 162] es un pilar fundamental para garantizar la operatividad de cualquier sistema de telecomunicaciones por las siguientes razones:
+
+1.  **Presupuesto de Enlace (Link Budget):** Conocer la atenuación exacta permite calcular si la señal que llega al receptor tendrá suficiente potencia para superar la sensibilidad del equipo. [cite_start]En este laboratorio, ignorar los **~30 dB** de pérdida del Cable 1 a altas frecuencias resultaría en una caída total del enlace, ya que la potencia recibida caería drásticamente (ej. -91.25 dBm a 900 MHz)[cite: 167].
+2.  **Relación Señal a Ruido (SNR):** La atenuación afecta directamente la SNR. Si la señal se atenúa excesivamente antes de llegar al receptor, se acerca al piso de ruido térmico, lo que en sistemas digitales incrementa la tasa de bits errados (BER) y degrada la integridad de los datos.
+3.  [cite_start]**Validación de Modelos Teóricos:** Los resultados del Cable 2 demostraron que los cálculos teóricos no siempre reflejan con exactitud la realidad del componente físico (la práctica arrojó valores menores a la teoría en este caso)[cite: 169]. Esto subraya la necesidad obligatoria de realizar mediciones de campo para certificar la infraestructura antes del despliegue.
