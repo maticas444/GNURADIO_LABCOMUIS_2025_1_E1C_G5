@@ -106,6 +106,6 @@ Por otro lado, encontramos que la emisora no identificada en 94.7 MHz podría tr
 
 ##### Retos de la Misión: Describe las dificultades que enfrentaste. ¿Fue difícil identificar todas las emisoras? ¿Había señales muy débiles o mucho ruido?
 
-Si, mientras algunas señales presentaban potencias altas y totalmente audibles, nos encontramos con algunas que eran bastante débiles, como por ejemplo lo son "La Mega Estereo" y "La Guapachosa" que presentaron potencias de -65,88 y -67,71 dB respectivamente, las cuales fue difícil encontrar al estar con bastante ruido. Lo cual es un comportamiento esperado, ya que las señales débiles son más susceptibles al ruido, a la atenuación por obstáculos y pueden ser difíciles de sintonizar para una correcta identificación.
+Si, mientras algunas señales presentaban potencias altas y totalmente audibles, nos encontramos con algunas que eran bastante débiles, como por ejemplo lo son "La Mega Estereo" y "La Guapachosa" que presentaron potencias de -65,88 y -67,71 dB respectivamente, las cuales fue difícil encontrar al estar con bastante ruido. Lo cual es un comportamiento esperado, ya que las señales débiles con altas pérdidas por atenuación y obstáculos pueden ser difíciles de sintonizar.
 
 
