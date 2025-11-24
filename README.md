@@ -18,7 +18,7 @@ Figura 1: Diagrama de flujo completo en GNU Radio.
 ### Código Fuente
 El flujo diseñado en GNU Radio fue compilado a Python para su ejecución y control.
 Puede consultar el código fuente completo en el siguiente enlace:
-👉 **[INSERTE LINK DEL GIST AQUÍ]**
+👉 https://gist.github.com/maticas444/256f4d1a022c87aed5ee2958c4f828f8
 
 ---
 
