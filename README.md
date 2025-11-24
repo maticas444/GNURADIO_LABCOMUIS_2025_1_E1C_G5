@@ -96,7 +96,7 @@ Incluya una captura de pantalla panorámica del espectro FM de Bucaramanga, señ
 
 ##### Lista de Anomalías: Presenta una lista clara y concisa de todas las "Transmisiones No Identificadas" o con desviaciones. Estas son tus principales pistas para una investigación más profunda.
 
-Solo se encontró transmisión no identificada ubicada en la frecuencia 94.7 MHz.
+Solo se encontró transmisión no identificada ubicada en la frecuencia 94.7 MHz, y otras dos no registradas, las ubicadas en 96.9MHz y 98.5MHz.
 
 ##### Análisis de Discrepancias: ¿Por qué podría existir una emisora en el aire que no está en los registros? Propón al menos dos hipótesis (ej. transmisión sin licencia, una licencia de un municipio cercano cuya señal llega a la ciudad, etc.).
 
